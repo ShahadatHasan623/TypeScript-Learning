@@ -57,6 +57,3 @@ const userData: {
   },
   contactNo: "017",
 };
-
-const user =userData?.address?.village
-console.log(user);
